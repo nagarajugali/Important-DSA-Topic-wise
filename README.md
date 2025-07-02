@@ -3,7 +3,7 @@
 
 ## 📉 Arrays (16 Questions)
 
-- [ ] [1] Two Sum *(Easy)*
+- [x] [1] Two Sum *(Easy)*
 - [ ] [121] Best Time to Buy and Sell Stock *(Easy)*
 - [ ] [88] Merge Sorted Array *(Easy)*
 - [ ] [217] Contains Duplicate *(Easy)*
