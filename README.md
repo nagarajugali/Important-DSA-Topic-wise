@@ -9,7 +9,7 @@
 - [ ] [217] Contains Duplicate *(Easy)*
 - [ ] [238] Product of Array Except Self *(Medium)*
 - [ ] [53] Maximum Subarray *(Easy)*
-- [ ] [15] 3Sum *(Medium)*
+- [x] [15] 3Sum *(Medium)*
 - [ ] [56] Merge Intervals *(Medium)*
 - [ ] [11] Container With Most Water *(Medium)*
 - [ ] [48] Rotate Image *(Medium)*
