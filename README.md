@@ -13,7 +13,7 @@
 - [ ] [56] Merge Intervals *(Medium)*
 - [ ] [11] Container With Most Water *(Medium)*
 - [ ] [48] Rotate Image *(Medium)*
-- [ ] [560] Subarray Sum Equals K *(Medium)*
+- [x] [560] Subarray Sum Equals K *(Medium)*
 - [ ] [26] Remove Duplicates from Sorted Array *(Easy)*
 - [ ] [152] Maximum Product Subarray *(Medium)*
 - [ ] [219] Contains Duplicate II *(Easy)*
