@@ -1,0 +1,21 @@
+##solved problem using prefixsum 
+
+
+
+
+from collections import defaultdict 
+class Solution:
+    def subarraySum(self, nums: List[int], k: int) -> int:
+        count=0
+        currentsum=0
+        prefixsum=defaultdict(int)
+        prefixsum[0]=1
+        for i in range(0,len(nums)):
+            currentsum+=nums[i]
+            if(currentsum-k in prefixsum):
+                count+=prefixsum[currentsum-k]
+            prefixsum[currentsum]+=1
+        return count
+            
+
+        
